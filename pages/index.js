@@ -17,7 +17,12 @@ export default function Home() {
         <div></div>
       </div>
 
-      <Cards />
+      <div className="flex flex-col items-center">
+        <Cards />
+        <button className="flex justify-center items-center bg-blue hover:bg-sky-700 text-white font-bold py-2 px-4 rounded">
+          Contate nossos especialistas
+        </button>
+      </div>
       <h1>dwad</h1>
       <h1>dwad</h1>
       <h1>dwad</h1>
