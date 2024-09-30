@@ -15,10 +15,10 @@ export default function Cards({ children }) {
   return (
     <>
       <div className="flex justify-center m-4">
-        <Card title={"Desenvolvimento de site"} desc={"Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque aliquam, maxime possimus corporis repellendus magni perferendis totam enim nulla. Tenetur nisi iusto quidem expedita, veritatis eos? Dolore libero odit porro?"}  />
-        <Card title={"Desenvolvimento de site"} desc={"Lorem ipsumsicing elit. Atque aliquam, maxime possimus corporis repellendus magni perferendis totam enim nulla. Tenetur nisi iusto quidem expedita, veritatis eos? Dolore libero odit porro?"}  />
-        <Card title={"Desenvolvimento de site"} desc={"Lorem ipsum dolor sit amet conssi iusto quidem expedita, veritatis eos? Dolore libero odit porro?"}  />
-        <Card title={"Desenvolvimento de site"} desc={"Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque aliquam, maxime possimus corporis repellendus magni perferendis totam enim nulla. Tenetur nisi iusto quidem expedita, veritatis eos? Dolore libero odit porro?"}  />
+        <Card title={"Desenvolvimento de software personalizado"} desc={"Nossa ampla experiência e metodologias garantem soluções de software personalizadas escaláveis ​​e confiáveis ​​que atendem às suas necessidades de negócios."}  />
+        <Card title={"Desenvolvimento de aplicações Web e Mobile"} desc={"Plataformas B2B e B2C construídas desde o início, independentemente da complexidade. Desenvolvimento de aplicativos iOS e Android, aplicativos móveis em React."}  />
+        <Card title={"Gerenciamento de projetos"} desc={"Os projetos são gerenciados com eficiência desde o início até a conclusão, garantindo a entrega dentro do prazo e do orçamento, além de uma coordenação perfeita em todas as fases."}  />
+        <Card title={"Design de UX/UI"} desc={"Nossos processos enfatizam o design centrado no usuário, a pesquisa e a importância de alinhar a UX/UI com a identidade da sua marca, ao mesmo tempo que garantem funcionalidade e engajamento."}  />
       </div>
     </>
   );

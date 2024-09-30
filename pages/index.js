@@ -18,14 +18,17 @@ export default function Home() {
         <div></div>
       </div>
 
-      <div className="py-32">
-        <Cards />
+      <div className="flex flex-col items-center">
+        <div className="py-32">
+          <Cards />
+        </div>
+        <button className="flex justify-center items-center bg-blue hover:bg-sky-700 text-white font-bold py-2 px-4 rounded">
+          Contate nossos especialistas
+        </button>
+        <div className="py-32">
+          <Showcase />
+        </div>
       </div>
-
-      <div className="py-32">
-        <Showcase />
-      </div>
-
       <h1>dwad</h1>
       <h1>dwad</h1>
       <h1>dwad</h1>
