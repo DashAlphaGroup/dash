@@ -7,7 +7,7 @@ const projArray = [
     },
     {
         name: "BASCULHA DO ALUAN",
-        text: `janelas, batentes e basculhantes!!!!!!!!`,
+        text: `janelas, batentes e basculhantes!!!!!!!!!`,
         type: "img",
         projectImg: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbWLccOiPTtWvPQALrlSHkm9fKkwSSo7sOgg&s"
     }
