@@ -4,6 +4,7 @@ import localFont from "next/font/local";
 import Layout from "@/components/Layout";
 import Cards from "@/components/Cards";
 import Showcase from "@/components/Showcase";
+import Projects from "@/components/Projects";
 
 export default function Home() {
   return (
@@ -28,6 +29,10 @@ export default function Home() {
         <div className="py-32">
           <Showcase />
         </div>
+      </div>
+
+      <div>
+        <Projects />
       </div>
       <h1>dwad</h1>
       <h1>dwad</h1>
